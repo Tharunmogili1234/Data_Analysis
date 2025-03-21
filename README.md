@@ -1,11 +1,11 @@
 # Data_Analysis
 Data Analytics with Power BI & Excel
 
-Overview
+# Overview:
 
 This project demonstrates how to perform data analysis on large datasets using Power BI and Excel. It covers data cleaning, transformation, visualization, and insights extraction to support data-driven decision-making.
 
-Features
+# Features:
 
 Data Import & Cleaning: Efficiently load and clean large datasets in Excel.
 
@@ -57,11 +57,8 @@ Contributions
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
 
-For any queries, reach out to [Your Name] at [Your Email] or visit [Your LinkedIn/GitHub].
+For any queries, reach out to [Tharun Mogili] at [tharunmogili1234@gmail.com] .
 
