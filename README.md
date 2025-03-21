@@ -52,5 +52,5 @@ The project includes a sample dataset for demonstration purposes. You can replac
 
 # Contact:
 
-For any queries, reach out to [Tharun Mogili] at [tharunmogili1234@gmail.com] .
+For any queries, reach out to Tharun Mogili at tharunmogili1234@gmail.com .
 
